@@ -1,2 +1,3 @@
 # Mips
-Programs in Mips assembly language.
+
+Various programs written in MIPS assembly language.
